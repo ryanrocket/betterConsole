@@ -12,7 +12,7 @@ const log = require("./betterConsole.js");
 
 
 ## Documentation
-As of version 0.1.0\n
+As of version 0.1.0<br>
 Assuming ```log``` is your variable assigned to the plugin (as above)
 
 ```log.warn(message)``` - Logs a warning flag into your console with a custom message defined when calling the function.
