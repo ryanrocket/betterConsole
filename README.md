@@ -4,7 +4,9 @@ A NodeJs Plugin For Pretty Console Logging by Ryan Wans
 ## Installation
 - Clone the repo and copy the file into your current site directory with NodeJS
 - In your ```app.js``` or main node file, include the following line to configure the file as a working plugin:
-```const log = require("./betterConsole.js");```
+```
+const log = require("./betterConsole.js");
+```
 - Thats it! You're all ready to use this powerful yet simple plugin. Documentation below
 
 
